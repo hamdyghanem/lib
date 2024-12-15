@@ -1,0 +1,5 @@
+NuGet Package Explorer
+https://apps.microsoft.com/detail/9wzdncrdmdm3?hl=en-US&gl=US
+
+token: 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
+https://nuget.pkg.github.com/hamdyghanem/index.json
